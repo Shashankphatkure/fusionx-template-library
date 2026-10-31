@@ -1,0 +1,4158 @@
+{
+ "version": "2026-11-01",
+ "tags": [
+  {
+   "slug": "about-us",
+   "title": "About us"
+  },
+  {
+   "slug": "banners",
+   "title": "Banners"
+  },
+  {
+   "slug": "blog",
+   "title": "Blog"
+  },
+  {
+   "slug": "call-to-action",
+   "title": "Call to action"
+  },
+  {
+   "slug": "carousels",
+   "title": "Carousels"
+  },
+  {
+   "slug": "categories",
+   "title": "Categories"
+  },
+  {
+   "slug": "contacts",
+   "title": "Contacts"
+  },
+  {
+   "slug": "footers",
+   "title": "Footers"
+  },
+  {
+   "slug": "full-width-sections",
+   "title": "Full width sections"
+  },
+  {
+   "slug": "gallery",
+   "title": "Gallery"
+  },
+  {
+   "slug": "google-map",
+   "title": "Google map"
+  },
+  {
+   "slug": "hero-section",
+   "title": "Hero section"
+  },
+  {
+   "slug": "images-grid",
+   "title": "Images grid"
+  },
+  {
+   "slug": "info-box",
+   "title": "Info box"
+  },
+  {
+   "slug": "instagram",
+   "title": "Instagram"
+  },
+  {
+   "slug": "map",
+   "title": "Map"
+  },
+  {
+   "slug": "marquee",
+   "title": "Marquee"
+  },
+  {
+   "slug": "mega-menu",
+   "title": "Mega menu"
+  },
+  {
+   "slug": "parallax",
+   "title": "Parallax"
+  },
+  {
+   "slug": "popup",
+   "title": "Popup"
+  },
+  {
+   "slug": "pricing-tables",
+   "title": "Pricing tables"
+  },
+  {
+   "slug": "product-features",
+   "title": "Product features"
+  },
+  {
+   "slug": "products",
+   "title": "Products"
+  },
+  {
+   "slug": "showcase",
+   "title": "Showcase"
+  },
+  {
+   "slug": "subscription",
+   "title": "Subscription"
+  },
+  {
+   "slug": "tabs",
+   "title": "Tabs"
+  },
+  {
+   "slug": "texts",
+   "title": "Texts"
+  },
+  {
+   "slug": "titles",
+   "title": "Titles"
+  },
+  {
+   "slug": "video",
+   "title": "Video"
+  },
+  {
+   "slug": "video-background",
+   "title": "Video background"
+  },
+  {
+   "slug": "widgets",
+   "title": "Widgets"
+  }
+ ],
+ "templates": [
+  {
+   "id": "22126",
+   "title": "Sign up with border",
+   "slug": "sign-up-with-border",
+   "tags": [
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/sign-up-with-border-1.jpg"
+  },
+  {
+   "id": "22148",
+   "title": "Parallax showcase",
+   "slug": "parallax-showcase",
+   "tags": [
+    "gallery",
+    "parallax",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/parallax-showcase-1.jpg"
+  },
+  {
+   "id": "22149",
+   "title": "Promo grid with background",
+   "slug": "promotion-grid-with-background",
+   "tags": [
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/promotion-grid-with-background.jpg"
+  },
+  {
+   "id": "22156",
+   "title": "About us two videos",
+   "slug": "about-us-with-two-videos",
+   "tags": [
+    "about-us",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-us-with-two-videos-1.jpg"
+  },
+  {
+   "id": "22158",
+   "title": "2 Columns text with video",
+   "slug": "2-columns-text-with-video",
+   "tags": [
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/2-columns-text-with-video-1.jpg"
+  },
+  {
+   "id": "22160",
+   "title": "Full with image with video",
+   "slug": "full-with-image-with-video",
+   "tags": [
+    "full-width-sections",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-with-image-with-video-1.jpg"
+  },
+  {
+   "id": "22163",
+   "title": "Video + brands",
+   "slug": "video-brands",
+   "tags": [
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/video-brands-1.jpg"
+  },
+  {
+   "id": "22165",
+   "title": "Video with info boxes",
+   "slug": "video-with-info-boxes-2",
+   "tags": [
+    "info-box",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/video-with-info-boxes-2-2.jpg"
+  },
+  {
+   "id": "22169",
+   "title": "2 Columns text + video",
+   "slug": "2-columns-text-video",
+   "tags": [
+    "texts",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/2-columns-text-video-4.jpg"
+  },
+  {
+   "id": "22171",
+   "title": "Full width section + video gallery",
+   "slug": "full-width-section-video-gallery",
+   "tags": [
+    "full-width-sections",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-section-video-gallery-2.jpg"
+  },
+  {
+   "id": "22173",
+   "title": "Video with dark background",
+   "slug": "video-with-dark-background",
+   "tags": [
+    "full-width-sections",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/video-with-dark-background-2.jpg"
+  },
+  {
+   "id": "22176",
+   "title": "Full width section with video",
+   "slug": "full-width-section-with-video",
+   "tags": [
+    "full-width-sections",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-section-with-video-3.jpg"
+  },
+  {
+   "id": "22179",
+   "title": "Products carousel + video",
+   "slug": "products-carousel-video",
+   "tags": [
+    "carousels",
+    "products",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-carousel-video-2.jpg"
+  },
+  {
+   "id": "22181",
+   "title": "Video with info boxes",
+   "slug": "video-with-info-boxes",
+   "tags": [
+    "info-box",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/video-with-info-boxes.jpg"
+  },
+  {
+   "id": "22183",
+   "title": "Video with features",
+   "slug": "video-with-features",
+   "tags": [
+    "showcase",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/video-with-features.jpg"
+  },
+  {
+   "id": "22185",
+   "title": "Video gallery",
+   "slug": "video-gallery",
+   "tags": [
+    "gallery",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/video-gallery.jpg"
+  },
+  {
+   "id": "22187",
+   "title": "Full width video background",
+   "slug": "full-width-video-background",
+   "tags": [
+    "video-background"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-video-background.jpg"
+  },
+  {
+   "id": "22189",
+   "title": "Video + text",
+   "slug": "video-text",
+   "tags": [
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/video-text.jpg"
+  },
+  {
+   "id": "22192",
+   "title": "Full width parallax banners",
+   "slug": "full-width-parallax-banners",
+   "tags": [
+    "banners",
+    "full-width-sections",
+    "parallax"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-parallax-banners-1.jpg"
+  },
+  {
+   "id": "22193",
+   "title": "2 Columns wide banners",
+   "slug": "2-columns-wide-banners",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/2-columns-wide-banners.jpg"
+  },
+  {
+   "id": "22194",
+   "title": "3 Columns bordered banners",
+   "slug": "3-columns-bordered-banners",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/3-columns-bordered-banners.jpg"
+  },
+  {
+   "id": "22195",
+   "title": "Bordered parallax banners",
+   "slug": "bordered-parallax-banners",
+   "tags": [
+    "banners",
+    "parallax"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/bordered-parallax-banners.jpg"
+  },
+  {
+   "id": "22196",
+   "title": "Banners + brands carousel",
+   "slug": "banners-brands-carousel",
+   "tags": [
+    "banners",
+    "carousels"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/banners-brands-carousel-1.jpg"
+  },
+  {
+   "id": "22197",
+   "title": "Banners with mask on hover",
+   "slug": "banners-with-mask-on-hover",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/banners-with-mask-on-hover.jpg"
+  },
+  {
+   "id": "22198",
+   "title": "3 Columns full width banners",
+   "slug": "3-columns-full-width-banners",
+   "tags": [
+    "banners",
+    "carousels",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/3-columns-full-width-banners-1.jpg"
+  },
+  {
+   "id": "22199",
+   "title": "Lingerie banners",
+   "slug": "lingerie-banners",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/lingerie-banners.jpg"
+  },
+  {
+   "id": "22201",
+   "title": "2 Columns parallax banners",
+   "slug": "2-columns-parallax-banners-2",
+   "tags": [
+    "banners",
+    "parallax"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/2-columns-parallax-banners-2-1.jpg"
+  },
+  {
+   "id": "22202",
+   "title": "3 Columns fashion banners",
+   "slug": "3-columns-fashion-banners",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/3-columns-fashion-banners-1.jpg"
+  },
+  {
+   "id": "22203",
+   "title": "Full width banners carousel",
+   "slug": "full-width-banners-carousel",
+   "tags": [
+    "banners",
+    "carousels",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-banners-carousel.jpg"
+  },
+  {
+   "id": "22204",
+   "title": "2 Columns banners",
+   "slug": "2-columns-banners",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/2-columns-banners.jpg"
+  },
+  {
+   "id": "22205",
+   "title": "3 columns parallax banners",
+   "slug": "3-columns-parallax-banners",
+   "tags": [
+    "banners",
+    "parallax"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/3-columns-parallax-banners.jpg"
+  },
+  {
+   "id": "22207",
+   "title": "Tall banners 3 columns",
+   "slug": "tall-banners-3-columns",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/tall-banners-3-columns-1.jpg"
+  },
+  {
+   "id": "22214",
+   "title": "Banners + info boxes",
+   "slug": "banners-info-boxes",
+   "tags": [
+    "banners",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/banners-info-boxes.jpg"
+  },
+  {
+   "id": "22215",
+   "title": "Full width 3 columns banners",
+   "slug": "full-width-3-columns-banners-2",
+   "tags": [
+    "banners",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-3-columns-banners-2.jpg"
+  },
+  {
+   "id": "22216",
+   "title": "Full width categories carousel",
+   "slug": "full-width-categories-carousel",
+   "tags": [
+    "carousels",
+    "categories",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-categories-carousel.jpg"
+  },
+  {
+   "id": "22218",
+   "title": "Toys banners",
+   "slug": "toys-banner",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/toys-banner.jpg"
+  },
+  {
+   "id": "22220",
+   "title": "Banners zoom image hover",
+   "slug": "banners-zoom-image-hover",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/banners-zoom-image-hover.jpg"
+  },
+  {
+   "id": "22222",
+   "title": "2 columns parallax banners",
+   "slug": "2-columns-parallax-banners",
+   "tags": [
+    "banners",
+    "parallax"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/2-columns-parallax-banners.jpg"
+  },
+  {
+   "id": "22223",
+   "title": "Full width 3 columns banners",
+   "slug": "full-width-3-columns-banners",
+   "tags": [
+    "banners",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-3-columns-banners.jpg"
+  },
+  {
+   "id": "22224",
+   "title": "Countdown section",
+   "slug": "countdown-section",
+   "tags": [
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/countdown-section.jpg"
+  },
+  {
+   "id": "22226",
+   "title": "Countdown light with background",
+   "slug": "countdown-light-with-background",
+   "tags": [
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/countdown-light-with-background.jpg"
+  },
+  {
+   "id": "22228",
+   "title": "Countdown with products carousel",
+   "slug": "countdown-with-products-carousel",
+   "tags": [
+    "carousels",
+    "full-width-sections",
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/countdown-with-products-carousel.jpg"
+  },
+  {
+   "id": "22229",
+   "title": "Lingerie countdown",
+   "slug": "lingerie-countdown",
+   "tags": [
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/lingerie-countdown.jpg"
+  },
+  {
+   "id": "22232",
+   "title": "Cosmetics countdown",
+   "slug": "cosmetics-countdown",
+   "tags": [
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/cosmetics-countdown.jpg"
+  },
+  {
+   "id": "22233",
+   "title": "Toys countdown",
+   "slug": "toys-countdown",
+   "tags": [
+    "call-to-action",
+    "full-width-sections",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/toys-countdown.jpg"
+  },
+  {
+   "id": "22235",
+   "title": "Christmas countdown",
+   "slug": "christmas-countdown",
+   "tags": [
+    "call-to-action",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/christmas-countdown.jpg"
+  },
+  {
+   "id": "22237",
+   "title": "Countdown with background",
+   "slug": "countdown-with-background",
+   "tags": [
+    "call-to-action",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/countdown-with-background.jpg"
+  },
+  {
+   "id": "22239",
+   "title": "Full screen about me section",
+   "slug": "full-screen-about-me-section",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-screen-about-me-section.jpg"
+  },
+  {
+   "id": "22240",
+   "title": "About us text with image",
+   "slug": "about-us-text-with-image",
+   "tags": [
+    "about-us"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-us-text-with-image-1.jpg"
+  },
+  {
+   "id": "22241",
+   "title": "Wine features + about us",
+   "slug": "wine-features-about-us",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "info-box",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/wine-features-about-us.jpg"
+  },
+  {
+   "id": "22243",
+   "title": "About our features",
+   "slug": "about-our-features",
+   "tags": [
+    "about-us"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-our-features.jpg"
+  },
+  {
+   "id": "22244",
+   "title": "About us with parallax",
+   "slug": "about-us-with-parallax-2",
+   "tags": [
+    "about-us",
+    "parallax",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-us-with-parallax-2-2.jpg"
+  },
+  {
+   "id": "22245",
+   "title": "Curved section with features",
+   "slug": "curved-section-with-features",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/curved-section-with-features.jpg"
+  },
+  {
+   "id": "22247",
+   "title": "Welcome text with image",
+   "slug": "welcome-text-with-image",
+   "tags": [
+    "about-us"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/welcome-text-with-image.jpg"
+  },
+  {
+   "id": "22248",
+   "title": "Cosmetics showcase",
+   "slug": "cosmetics-showcase",
+   "tags": [
+    "call-to-action",
+    "full-width-sections",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/cosmetics-showcase.jpg"
+  },
+  {
+   "id": "22250",
+   "title": "Gym features",
+   "slug": "gym-features",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/gym-features.jpg"
+  },
+  {
+   "id": "22252",
+   "title": "Showcase with counters",
+   "slug": "showcase-with-counters",
+   "tags": [
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/showcase-with-counters.jpg"
+  },
+  {
+   "id": "22254",
+   "title": "About us + gallery + info boxes",
+   "slug": "about-us-gallery-info-boxes-2",
+   "tags": [
+    "about-us",
+    "gallery",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-us-gallery-info-boxes-2.jpg"
+  },
+  {
+   "id": "22256",
+   "title": "Welcome text section",
+   "slug": "welcome-text-section",
+   "tags": [
+    "about-us",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/welcome-text-section.jpg"
+  },
+  {
+   "id": "22258",
+   "title": "About us with social buttons",
+   "slug": "about-us-with-social-buttons",
+   "tags": [
+    "about-us",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-us-with-social-buttons.jpg"
+  },
+  {
+   "id": "22259",
+   "title": "About us with parallax",
+   "slug": "about-us-with-parallax",
+   "tags": [
+    "about-us",
+    "parallax",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-us-with-parallax.jpg"
+  },
+  {
+   "id": "22260",
+   "title": "Full screen gallery + about us text",
+   "slug": "full-screen-gallery-about-us-text",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "gallery",
+    "images-grid",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-screen-gallery-about-us-text.jpg"
+  },
+  {
+   "id": "22262",
+   "title": "Image + about us texts",
+   "slug": "image-about-us-texts",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/image-about-us-texts.jpg"
+  },
+  {
+   "id": "22264",
+   "title": "Subscription + contacts + popup form",
+   "slug": "wine-sing_up",
+   "tags": [
+    "contacts",
+    "popup",
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/wine-sing_up.jpg"
+  },
+  {
+   "id": "22265",
+   "title": "Subscription + contact form popup",
+   "slug": "shoes-sing_up",
+   "tags": [
+    "contacts",
+    "popup",
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/shoes-sing_up.jpg"
+  },
+  {
+   "id": "22266",
+   "title": "Subscription boxed",
+   "slug": "subscription-boxed",
+   "tags": [
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/subscription-boxed.jpg"
+  },
+  {
+   "id": "22267",
+   "title": "Subscription full width + social icons",
+   "slug": "subscription-full-width-social-icons",
+   "tags": [
+    "full-width-sections",
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/subscription-full-width-social-icons.jpg"
+  },
+  {
+   "id": "22269",
+   "title": "Subscription + product widgets",
+   "slug": "subscription-product-widgets",
+   "tags": [
+    "footers",
+    "products",
+    "subscription",
+    "widgets"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/subscription-product-widgets.jpg"
+  },
+  {
+   "id": "22277",
+   "title": "Subscription + testimonials with background",
+   "slug": "subscription-testimonials-with-background",
+   "tags": [
+    "full-width-sections",
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/subscription-testimonials-with-background.jpg"
+  },
+  {
+   "id": "22279",
+   "title": "Minimalism subscription",
+   "slug": "minimalism-subscription",
+   "tags": [
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/minimalism-subscription.jpg"
+  },
+  {
+   "id": "22281",
+   "title": "Full width section with subscription",
+   "slug": "full-width-section-with-subscription",
+   "tags": [
+    "full-width-sections",
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-section-with-subscription-1.jpg"
+  },
+  {
+   "id": "22283",
+   "title": "Subscription + testimonials",
+   "slug": "subscription-testimonials",
+   "tags": [
+    "about-us",
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/subscription-testimonials-1.jpg"
+  },
+  {
+   "id": "22285",
+   "title": "Waves section + subscription",
+   "slug": "waves-section-subscription",
+   "tags": [
+    "full-width-sections",
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/waves-section-subscription.jpg"
+  },
+  {
+   "id": "22287",
+   "title": "Christmas subscription",
+   "slug": "christmas-subscription",
+   "tags": [
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/christmas-subscription.jpg"
+  },
+  {
+   "id": "22288",
+   "title": "Subscription with video",
+   "slug": "subscription-with-video",
+   "tags": [
+    "full-width-sections",
+    "subscription",
+    "video-background"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/subscription-with-video.jpg"
+  },
+  {
+   "id": "22290",
+   "title": "Full width subscription",
+   "slug": "full-width-subscription",
+   "tags": [
+    "full-width-sections",
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-subscription-1.jpg"
+  },
+  {
+   "id": "22292",
+   "title": "Newsletter + social icons",
+   "slug": "newsletter-social-icons",
+   "tags": [
+    "full-width-sections",
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/newsletter-social-icons-1.jpg"
+  },
+  {
+   "id": "22294",
+   "title": "Mobile app features info boxes",
+   "slug": "mobile-app-features-infor-boxes",
+   "tags": [
+    "about-us",
+    "info-box",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/mobile-app-features-infor-boxes.jpg"
+  },
+  {
+   "id": "22296",
+   "title": "Animated counters",
+   "slug": "animated-counters",
+   "tags": [
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/animated-counters.jpg"
+  },
+  {
+   "id": "22297",
+   "title": "Info boxes icons left",
+   "slug": "info-boxes-icons-left",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/info-boxes-icons-left.jpg"
+  },
+  {
+   "id": "22300",
+   "title": "Info boxes with shadow",
+   "slug": "info-boxes-with-shadow",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/info-boxes-with-shadow.jpg"
+  },
+  {
+   "id": "22302",
+   "title": "About us gallery + info boxes",
+   "slug": "about-us-gallery-info-boxes",
+   "tags": [
+    "about-us",
+    "gallery",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-us-gallery-info-boxes.jpg"
+  },
+  {
+   "id": "22305",
+   "title": "Travel icons",
+   "slug": "travel-icon",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/travel-icon.jpg"
+  },
+  {
+   "id": "22306",
+   "title": "Circle info boxes",
+   "slug": "circle-info-boxes",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/circle-info-boxes.jpg"
+  },
+  {
+   "id": "22308",
+   "title": "Shoes showcase + info boxes",
+   "slug": "shoes-showcase-info-boxesshoes-icon",
+   "tags": [
+    "full-width-sections",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/shoes-showcase-info-boxesshoes-icon.jpg"
+  },
+  {
+   "id": "22309",
+   "title": "Full width info boxes with background",
+   "slug": "full-width-info-boxes-with-background",
+   "tags": [
+    "full-width-sections",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-info-boxes-with-background.jpg"
+  },
+  {
+   "id": "22311",
+   "title": "Bordered info boxes",
+   "slug": "bordered-info-boxes",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/bordered-info-boxes-1.jpg"
+  },
+  {
+   "id": "22312",
+   "title": "Number images info boxes",
+   "slug": "number-images-info-boxes",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/number-images-info-boxes.jpg"
+  },
+  {
+   "id": "22314",
+   "title": "4 columns inline info boxes",
+   "slug": "4-columns-inline-info-boxes",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/4-columns-inline-info-boxes.jpg"
+  },
+  {
+   "id": "22316",
+   "title": "Full width section + info boxes + parallax",
+   "slug": "full-width-section-info-boxes-parallax",
+   "tags": [
+    "full-width-sections",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-section-info-boxes-parallax.jpg"
+  },
+  {
+   "id": "22317",
+   "title": "Info boxes with buttons",
+   "slug": "info-boxes-with-buttons",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/info-boxes-with-buttons.jpg"
+  },
+  {
+   "id": "22318",
+   "title": "Info boxes with hover and animation",
+   "slug": "info-boxes-with-hover-and-animation",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/info-boxes-with-hover-and-animation.jpg"
+  },
+  {
+   "id": "22320",
+   "title": "Images boxes with numbers",
+   "slug": "images-boxes-with-numbers",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/images-boxes-with-numbers.jpg"
+  },
+  {
+   "id": "22322",
+   "title": "4 Columns info boxes with text",
+   "slug": "4-columns-info-boxes-with-text",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/4-columns-info-boxes-with-text-1.jpg"
+  },
+  {
+   "id": "22323",
+   "title": "Gallery with features",
+   "slug": "gallery-with-features",
+   "tags": [
+    "gallery",
+    "images-grid",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/gallery-with-features.jpg"
+  },
+  {
+   "id": "22324",
+   "title": "Color info boxes full width",
+   "slug": "color-info-boxes-full-width",
+   "tags": [
+    "full-width-sections",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/color-info-boxes-full-width.jpg"
+  },
+  {
+   "id": "22326",
+   "title": "Product features",
+   "slug": "product-features",
+   "tags": [
+    "info-box",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-features.jpg"
+  },
+  {
+   "id": "22327",
+   "title": "Product features + info boxes",
+   "slug": "product-features-info-boxes",
+   "tags": [
+    "full-width-sections",
+    "info-box",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-features-info-boxes.jpg"
+  },
+  {
+   "id": "22329",
+   "title": "Info boxes 4 columns",
+   "slug": "info-boxes-4-columns",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/info-boxes-4-columns.jpg"
+  },
+  {
+   "id": "22330",
+   "title": "Services info boxes",
+   "slug": "services-info-boxes",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/services-info-boxes.jpg"
+  },
+  {
+   "id": "22331",
+   "title": "Full width background + info boxes",
+   "slug": "full-width-background-info-boxes",
+   "tags": [
+    "full-width-sections",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-background-info-boxes.jpg"
+  },
+  {
+   "id": "22333",
+   "title": "Blog chess",
+   "slug": "blog-chess",
+   "tags": [
+    "blog"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/blog-chess-1.jpg"
+  },
+  {
+   "id": "22336",
+   "title": "Blog 4 columns carousel",
+   "slug": "blog-4-columns-carousel",
+   "tags": [
+    "blog",
+    "carousels"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/blog-4-columns-carousel.jpg"
+  },
+  {
+   "id": "22338",
+   "title": "Blog without excerpt",
+   "slug": "blog-without-excerpt",
+   "tags": [
+    "blog",
+    "carousels"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/blog-without-excerpt-2.jpg"
+  },
+  {
+   "id": "22341",
+   "title": "Blog full width carousel",
+   "slug": "blog-full-width-carousel-2",
+   "tags": [
+    "blog",
+    "carousels",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/blog-full-width-carousel-2-1.jpg"
+  },
+  {
+   "id": "22343",
+   "title": "Blog carousel with title and button",
+   "slug": "blog-carousel-with-title-and-button",
+   "tags": [
+    "blog",
+    "carousels"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/blog-carousel-with-title-and-button.jpg"
+  },
+  {
+   "id": "22344",
+   "title": "Blog mask images",
+   "slug": "blog-mask-images",
+   "tags": [
+    "blog"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/blog-mask-images-1.jpg"
+  },
+  {
+   "id": "22345",
+   "title": "Blog two columns",
+   "slug": "blog-two-columns",
+   "tags": [
+    "blog"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/blog-two-columns-3.jpg"
+  },
+  {
+   "id": "22346",
+   "title": "Blog full width carousel",
+   "slug": "blog-full-width-carousel",
+   "tags": [
+    "blog",
+    "carousels",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/blog-full-width-carousel.jpg"
+  },
+  {
+   "id": "22347",
+   "title": "Blog carousel with small images",
+   "slug": "blog-carousel-with-small-images",
+   "tags": [
+    "blog",
+    "carousels"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/blog-carousel-with-small-images.jpg"
+  },
+  {
+   "id": "22348",
+   "title": "Blog carousel with background",
+   "slug": "blog-carousel-with-background",
+   "tags": [
+    "blog",
+    "carousels"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/blog-carousel-with-background.jpg"
+  },
+  {
+   "id": "22351",
+   "title": "Blog carousel",
+   "slug": "blog-carousel",
+   "tags": [
+    "blog",
+    "carousels"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/blog-carousel.jpg"
+  },
+  {
+   "id": "22353",
+   "title": "Parallax scrolling grid",
+   "slug": "parallax-scrolling-grid",
+   "tags": [
+    "banners",
+    "parallax"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/parallax-scrolling-grid.jpg"
+  },
+  {
+   "id": "22354",
+   "title": "Marketplace banners grid",
+   "slug": "marketplace-grid",
+   "tags": [
+    "banners",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/marketplace-grid.jpg"
+  },
+  {
+   "id": "22355",
+   "title": "Handmade banners grid",
+   "slug": "handmade-banners-grid",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/handmade-banners-grid.jpg"
+  },
+  {
+   "id": "22362",
+   "title": "Banners grid no space",
+   "slug": "banners-grid-no-space",
+   "tags": [
+    "banners",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/banners-grid-no-space.jpg"
+  },
+  {
+   "id": "22364",
+   "title": "6 Banners grid",
+   "slug": "6-banners-grid",
+   "tags": [
+    "banners",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/6-banners-grid-1.jpg"
+  },
+  {
+   "id": "22365",
+   "title": "Full screen banners grid",
+   "slug": "full-screen-banners-grid",
+   "tags": [
+    "banners",
+    "full-width-sections",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-screen-banners-grid.jpg"
+  },
+  {
+   "id": "22367",
+   "title": "5 banners grid",
+   "slug": "5-banners-grid",
+   "tags": [
+    "banners",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/5-banners-grid-2.jpg"
+  },
+  {
+   "id": "22368",
+   "title": "Banners grid 3 columns",
+   "slug": "banners-grid-3-columns",
+   "tags": [
+    "banners",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/banners-grid-3-columns.jpg"
+  },
+  {
+   "id": "22369",
+   "title": "Furniture banners grid",
+   "slug": "furniture-banners-grid",
+   "tags": [
+    "banners",
+    "full-width-sections",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/furniture-banners-grid.jpg"
+  },
+  {
+   "id": "22373",
+   "title": "Images grid with banners",
+   "slug": "images-grid-with-banners",
+   "tags": [
+    "banners",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/images-grid-with-banners-2.jpg"
+  },
+  {
+   "id": "22376",
+   "title": "Parallax images and texts",
+   "slug": "parallax-images-and-texts",
+   "tags": [
+    "full-width-sections",
+    "parallax"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/parallax-images-and-texts.jpg"
+  },
+  {
+   "id": "22377",
+   "title": "Features section",
+   "slug": "features-section",
+   "tags": [
+    "full-width-sections",
+    "info-box",
+    "parallax",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/features-section.jpg"
+  },
+  {
+   "id": "22379",
+   "title": "Curved section with timer",
+   "slug": "curved-section-with-timer",
+   "tags": [
+    "call-to-action",
+    "full-width-sections",
+    "parallax",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/curved-section-with-timer.jpg"
+  },
+  {
+   "id": "22381",
+   "title": "Product characteristics",
+   "slug": "product-characteristics",
+   "tags": [
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-characteristics.jpg"
+  },
+  {
+   "id": "22382",
+   "title": "Product showcase with info boxes",
+   "slug": "product-showcase-with-info-boxes",
+   "tags": [
+    "info-box",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-showcase-with-info-boxes.jpg"
+  },
+  {
+   "id": "22384",
+   "title": "Instagram circled",
+   "slug": "instagram-circled",
+   "tags": [
+    "instagram"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/instagram-circled.jpg"
+  },
+  {
+   "id": "22385",
+   "title": "Instagram grid with title + button",
+   "slug": "instagram-grid-with-title-button",
+   "tags": [
+    "instagram"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/instagram-grid-with-title-button.jpg"
+  },
+  {
+   "id": "22388",
+   "title": "Lingerie instagram",
+   "slug": "lingerie-instagram",
+   "tags": [
+    "carousels",
+    "instagram"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/lingerie-instagram.jpg"
+  },
+  {
+   "id": "22389",
+   "title": "Instagram full width carousel",
+   "slug": "instagram-full-width-carousel",
+   "tags": [
+    "carousels",
+    "full-width-sections",
+    "instagram"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/instagram-full-width-carousel.jpg"
+  },
+  {
+   "id": "22390",
+   "title": "Instagram carousel 4 columns",
+   "slug": "instagram-carousel-4-columns",
+   "tags": [
+    "carousels",
+    "instagram"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/instagram-carousel-4-columns.jpg"
+  },
+  {
+   "id": "22392",
+   "title": "Instagram grid full width",
+   "slug": "instagram-grid-full-width",
+   "tags": [
+    "full-width-sections",
+    "images-grid",
+    "instagram"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/instagram-grid-full-width.jpg"
+  },
+  {
+   "id": "22393",
+   "title": "Instagram + testimonials",
+   "slug": "instagram-testimonials",
+   "tags": [
+    "about-us",
+    "instagram"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/instagram-testimonials.jpg"
+  },
+  {
+   "id": "22397",
+   "title": "Testimonials 2 columns",
+   "slug": "testimonials-2-columns",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/testimonials-2-columns.jpg"
+  },
+  {
+   "id": "22399",
+   "title": "Testimonials boxed",
+   "slug": "testimonials-boxed",
+   "tags": [
+    "about-us",
+    "carousels"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/testimonials-boxed.jpg"
+  },
+  {
+   "id": "22400",
+   "title": "Testimonials with background",
+   "slug": "testimonials-with-background",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/testimonials-with-background.jpg"
+  },
+  {
+   "id": "22402",
+   "title": "Testimonials boxed carousel",
+   "slug": "testimonials-boxed-carousel",
+   "tags": [
+    "contacts",
+    "full-width-sections",
+    "popup"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/testimonials-boxed-carousel-1.jpg"
+  },
+  {
+   "id": "22404",
+   "title": "Testimonials + contact form",
+   "slug": "testimonials-contact-form",
+   "tags": [
+    "about-us",
+    "contacts",
+    "popup"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/testimonials-contact-form.jpg"
+  },
+  {
+   "id": "22406",
+   "title": "Testimonials grid",
+   "slug": "testimonials-grid",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/testimonials-grid.jpg"
+  },
+  {
+   "id": "22407",
+   "title": "About us + counters",
+   "slug": "about-us-counters",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-us-counters.jpg"
+  },
+  {
+   "id": "22409",
+   "title": "Info boxes with numbers",
+   "slug": "info-boxes-with-numbers",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/info-boxes-with-numbers-1.jpg"
+  },
+  {
+   "id": "22410",
+   "title": "Corporate services with title",
+   "slug": "corporate-services-with-title",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "info-box",
+    "titles"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/corporate-services-with-title.jpg"
+  },
+  {
+   "id": "22411",
+   "title": "Corporate services",
+   "slug": "corporate-services-2",
+   "tags": [
+    "full-width-sections",
+    "info-box",
+    "parallax"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/corporate-services-2.jpg"
+  },
+  {
+   "id": "22412",
+   "title": "360 degree view",
+   "slug": "360-degree-view",
+   "tags": [
+    "full-width-sections",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/360-degree-view-1.jpg"
+  },
+  {
+   "id": "22413",
+   "title": "Google map with content",
+   "slug": "google-map-with-content",
+   "tags": [
+    "contacts",
+    "google-map"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/google-map-with-content-1.jpg"
+  },
+  {
+   "id": "22414",
+   "title": "Contacts + newsletter + google map",
+   "slug": "contacts-newsletter-google-map",
+   "tags": [
+    "contacts",
+    "google-map",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/contacts-newsletter-google-map-1.jpg"
+  },
+  {
+   "id": "22415",
+   "title": "Contacts + Google map",
+   "slug": "contacts-google-map-2",
+   "tags": [
+    "contacts",
+    "google-map"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/contacts-google-map-2.jpg"
+  },
+  {
+   "id": "22417",
+   "title": "Organic promotion",
+   "slug": "organic-promotion",
+   "tags": [
+    "call-to-action",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/organic-promotion.jpg"
+  },
+  {
+   "id": "22418",
+   "title": "Digitals promotion",
+   "slug": "digitals-promotion",
+   "tags": [
+    "full-width-sections",
+    "gallery",
+    "images-grid",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/digitals-promotion.jpg"
+  },
+  {
+   "id": "22419",
+   "title": "Jewellery promotion",
+   "slug": "jewellery-promotion",
+   "tags": [
+    "banners",
+    "full-width-sections",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/jewellery-promotion.jpg"
+  },
+  {
+   "id": "22420",
+   "title": "APP call to action",
+   "slug": "app-call-to-action",
+   "tags": [
+    "call-to-action",
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/app-call-to-action-1.jpg"
+  },
+  {
+   "id": "22422",
+   "title": "Products widgets + banner",
+   "slug": "products-widgets-banner",
+   "tags": [
+    "banners",
+    "full-width-sections",
+    "products",
+    "widgets"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-widgets-banner.jpg"
+  },
+  {
+   "id": "22423",
+   "title": "Products widget + newsletter",
+   "slug": "marketplace-widget",
+   "tags": [
+    "footers",
+    "products",
+    "widgets"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/marketplace-widget-1.jpg"
+  },
+  {
+   "id": "22425",
+   "title": "4 Columns product widgets",
+   "slug": "4-columns-product-widgets",
+   "tags": [
+    "footers",
+    "products",
+    "widgets"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/4-columns-product-widgets-1.jpg"
+  },
+  {
+   "id": "22427",
+   "title": "Products widgets + Instagram and Twitter",
+   "slug": "products-widgets-instagram-and-twitter",
+   "tags": [
+    "footers",
+    "products",
+    "widgets"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-widgets-instagram-and-twitter.jpg"
+  },
+  {
+   "id": "22429",
+   "title": "Products widgets + banners",
+   "slug": "products-widgets-banners",
+   "tags": [
+    "banners",
+    "products",
+    "widgets"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-widgets-banners.jpg"
+  },
+  {
+   "id": "22432",
+   "title": "Products widgets + twitter",
+   "slug": "products-widgets-twitter",
+   "tags": [
+    "footers",
+    "products",
+    "widgets"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-widgets-twitter-1.jpg"
+  },
+  {
+   "id": "22434",
+   "title": "Menu price with image",
+   "slug": "menu-price-with-image",
+   "tags": [
+    "pricing-tables"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/menu-price-with-image-1.jpg"
+  },
+  {
+   "id": "22435",
+   "title": "Menu price",
+   "slug": "menu-price",
+   "tags": [
+    "pricing-tables"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/menu-price-1.jpg"
+  },
+  {
+   "id": "22437",
+   "title": "Food menu price",
+   "slug": "food-menu-price",
+   "tags": [
+    "pricing-tables",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/food-menu-price.jpg"
+  },
+  {
+   "id": "22438",
+   "title": "Pricing tables alternative style",
+   "slug": "pricing-tables-alternative-style",
+   "tags": [
+    "pricing-tables"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/pricing-tables-alternative-style.jpg"
+  },
+  {
+   "id": "22439",
+   "title": "Pricing tables with custom button",
+   "slug": "pricing-tables-with-custom-button",
+   "tags": [
+    "pricing-tables"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/pricing-tables-with-custom-button.jpg"
+  },
+  {
+   "id": "22445",
+   "title": "Full with section with products",
+   "slug": "full-with-section-with-products",
+   "tags": [
+    "carousels",
+    "full-width-sections",
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-with-section-with-products.jpg"
+  },
+  {
+   "id": "22446",
+   "title": "Half image section with products",
+   "slug": "half-image-section-with-products",
+   "tags": [
+    "carousels",
+    "full-width-sections",
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/half-image-section-with-products-1.jpg"
+  },
+  {
+   "id": "22448",
+   "title": "Products grid with title",
+   "slug": "products-grid-with-title",
+   "tags": [
+    "products",
+    "titles"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-grid-with-title.jpg"
+  },
+  {
+   "id": "22449",
+   "title": "Products section with icon tabs",
+   "slug": "products-section-with-icon-tabs",
+   "tags": [
+    "carousels",
+    "full-width-sections",
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-section-with-icon-tabs.jpg"
+  },
+  {
+   "id": "22450",
+   "title": "Products carousel with text",
+   "slug": "products-carousel-with-text",
+   "tags": [
+    "carousels",
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-carousel-with-text.jpg"
+  },
+  {
+   "id": "22453",
+   "title": "Product tabs + 3 banners",
+   "slug": "product-tabs-3-banners",
+   "tags": [
+    "banners",
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/54.jpg"
+  },
+  {
+   "id": "22456",
+   "title": "Product tabs alternative",
+   "slug": "product-tabs-alternative",
+   "tags": [
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-tabs-alternative-1.jpg"
+  },
+  {
+   "id": "22457",
+   "title": "Products tabs with widget and banner",
+   "slug": "products-tabs-with-widget-and-banner",
+   "tags": [
+    "banners",
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-tabs-with-widget-and-banner.jpg"
+  },
+  {
+   "id": "22458",
+   "title": "Hot deals products",
+   "slug": "hot-deals-products",
+   "tags": [
+    "full-width-sections",
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/hot-deals-products.jpg"
+  },
+  {
+   "id": "22459",
+   "title": "Product tabs 4 columns + AJAX arrows",
+   "slug": "product-tabs-4-columns-ajax-arrows",
+   "tags": [
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-tabs-4-columns-ajax-arrows.jpg"
+  },
+  {
+   "id": "22460",
+   "title": "Product tabs 3 columns",
+   "slug": "product-tabs-3-columns",
+   "tags": [
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-tabs-3-columns.jpg"
+  },
+  {
+   "id": "22462",
+   "title": "Product tabs + AJAX arrows",
+   "slug": "product-tabs-ajax-arrows",
+   "tags": [
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-tabs-ajax-arrows.jpg"
+  },
+  {
+   "id": "22463",
+   "title": "Products carousel 5 columns",
+   "slug": "products-carousel-5-columns",
+   "tags": [
+    "carousels",
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-carousel-5-columns.jpg"
+  },
+  {
+   "id": "22465",
+   "title": "Products grid 3 columns",
+   "slug": "products-grid-3-columns",
+   "tags": [
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-grid-3-columns.jpg"
+  },
+  {
+   "id": "22466",
+   "title": "Tabs with 3 columns products + banners",
+   "slug": "tabs-with-3-columns-products-banners",
+   "tags": [
+    "banners",
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/tabs-with-3-columns-products-banners.jpg"
+  },
+  {
+   "id": "22467",
+   "title": "Products 6 columns with AJAX arrows",
+   "slug": "products-6-columns-with-ajax-arrows",
+   "tags": [
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-6-columns-with-ajax-arrows.jpg"
+  },
+  {
+   "id": "22469",
+   "title": "Products carousel with information on hover",
+   "slug": "products-carousel-with-information-on-hover",
+   "tags": [
+    "carousels",
+    "full-width-sections",
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-carousel-with-information-on-hover.jpg"
+  },
+  {
+   "id": "22471",
+   "title": "Product tabs with title",
+   "slug": "product-tabs-with-title",
+   "tags": [
+    "products",
+    "tabs",
+    "titles"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-tabs-with-title.jpg"
+  },
+  {
+   "id": "22473",
+   "title": "Product tabs + banners",
+   "slug": "product-tabs-banners",
+   "tags": [
+    "banners",
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-tabs-banners.jpg"
+  },
+  {
+   "id": "22474",
+   "title": "Products tabs with carousels",
+   "slug": "products-tabs-with-carousels",
+   "tags": [
+    "carousels",
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-tabs-with-carousels.jpg"
+  },
+  {
+   "id": "22475",
+   "title": "Hotspots with products + info boxes",
+   "slug": "hotspots-with-products-info-boxes",
+   "tags": [
+    "carousels",
+    "info-box",
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/hotspots-with-products-info-boxes-2.jpg"
+  },
+  {
+   "id": "22477",
+   "title": "Product tabs + best offer",
+   "slug": "product-tabs-best-offer",
+   "tags": [
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-tabs-best-offer.jpg"
+  },
+  {
+   "id": "22479",
+   "title": "3 Columns products carousel with background",
+   "slug": "3-columns-products-carousel-with-background",
+   "tags": [
+    "carousels",
+    "full-width-sections",
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/3-columns-products-carousel-with-background.jpg"
+  },
+  {
+   "id": "22480",
+   "title": "Product filters",
+   "slug": "product-filter",
+   "tags": [
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/product-filter-1.jpg"
+  },
+  {
+   "id": "22481",
+   "title": "Title style bordered",
+   "slug": "title-style-bordered",
+   "tags": [
+    "titles"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/title-style-bordered-2.jpg"
+  },
+  {
+   "id": "22482",
+   "title": "Title style underline",
+   "slug": "title-style-underline",
+   "tags": [
+    "titles"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/title-style-underline-1.jpg"
+  },
+  {
+   "id": "22483",
+   "title": "Title style underline 2",
+   "slug": "title-style-underline-2",
+   "tags": [
+    "titles"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/title-style-underline-2.jpg"
+  },
+  {
+   "id": "22484",
+   "title": "Title style with gradient",
+   "slug": "title-style-with-gradient",
+   "tags": [
+    "titles"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/title-style-with-gradient-1.jpg"
+  },
+  {
+   "id": "22485",
+   "title": "Full width section with search",
+   "slug": "full-width-section-with-search",
+   "tags": [
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-section-with-search.jpg"
+  },
+  {
+   "id": "22487",
+   "title": "Hero section with search + banners",
+   "slug": "hero-section-with-search-banners",
+   "tags": [
+    "banners",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/hero-section-with-search-banners-1.jpg"
+  },
+  {
+   "id": "22489",
+   "title": "Full width images carousel",
+   "slug": "full-width-images-carousel",
+   "tags": [
+    "carousels",
+    "full-width-sections",
+    "gallery"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-images-carousel.jpg"
+  },
+  {
+   "id": "22490",
+   "title": "2 Galleries showcase",
+   "slug": "2-galleries-showcase",
+   "tags": [
+    "carousels",
+    "gallery",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/2-galleries-showcase.jpg"
+  },
+  {
+   "id": "22492",
+   "title": "About us section",
+   "slug": "about-us-section",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-us-section.jpg"
+  },
+  {
+   "id": "22494",
+   "title": "Chess grid with images + texts",
+   "slug": "chess-grid-with-images-texts",
+   "tags": [
+    "images-grid",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/chess-grid-with-images-texts.jpg"
+  },
+  {
+   "id": "22495",
+   "title": "Full width with gallery and text",
+   "slug": "full-width-with-gallery-and-text",
+   "tags": [
+    "full-width-sections",
+    "gallery",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-with-gallery-and-text.jpg"
+  },
+  {
+   "id": "22498",
+   "title": "360 degree view + texts",
+   "slug": "360-degree-view-texts",
+   "tags": [
+    "gallery",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/360-degree-view-texts.jpg"
+  },
+  {
+   "id": "22502",
+   "title": "3 Columns texts",
+   "slug": "3-columns-texts",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/3-columns-texts.jpg"
+  },
+  {
+   "id": "22503",
+   "title": "3 Columns texts and images",
+   "slug": "3-columns-texts-and-images",
+   "tags": [
+    "images-grid",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/3-columns-texts-and-images.jpg"
+  },
+  {
+   "id": "22505",
+   "title": "Two columns with image",
+   "slug": "two-columns-with-image",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/two-columns-with-image.jpg"
+  },
+  {
+   "id": "22507",
+   "title": "2 Columns texts + info boxes",
+   "slug": "2-columns-texts-info-boxes",
+   "tags": [
+    "info-box",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/2-columns-texts-info-boxes-1.jpg"
+  },
+  {
+   "id": "22509",
+   "title": "Timeline alternative",
+   "slug": "timeline-alternative",
+   "tags": [
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/timeline-alternative.jpg"
+  },
+  {
+   "id": "22511",
+   "title": "Parallax background",
+   "slug": "parallax-background",
+   "tags": [
+    "full-width-sections",
+    "parallax"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/parallax-background.jpg"
+  },
+  {
+   "id": "22513",
+   "title": "2 Columns image with quote",
+   "slug": "2-columns-image-with-quote",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/2-columns-image-with-quote.jpg"
+  },
+  {
+   "id": "22516",
+   "title": "Image with texts and buttons",
+   "slug": "image-with-texts-and-buttons",
+   "tags": [
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/image-with-texts-and-buttons.jpg"
+  },
+  {
+   "id": "22517",
+   "title": "2 Columns texts with brands",
+   "slug": "2-columns-texts-with-brands",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/2-columns-texts-with-brands-1.jpg"
+  },
+  {
+   "id": "22518",
+   "title": "Showcase section + animations",
+   "slug": "showcase-section-animations",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/showcase-section-animations.jpg"
+  },
+  {
+   "id": "22519",
+   "title": "2 Columns gallery + texts",
+   "slug": "2-columns-gallery-texts",
+   "tags": [
+    "gallery",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/2-columns-gallery-texts.jpg"
+  },
+  {
+   "id": "22520",
+   "title": "App showcase full width",
+   "slug": "app-showcase-full-width",
+   "tags": [
+    "full-width-sections",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/app-showcase-full-width.jpg"
+  },
+  {
+   "id": "22521",
+   "title": "Timeline with title",
+   "slug": "timeline-with-title",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/timeline-with-title.jpg"
+  },
+  {
+   "id": "22524",
+   "title": "Hero section + buttons",
+   "slug": "hero-section-buttons",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/hero-section-buttons.jpg"
+  },
+  {
+   "id": "22526",
+   "title": "Our team full width",
+   "slug": "our-team-full-width",
+   "tags": [
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/our-team-full-width.jpg"
+  },
+  {
+   "id": "22527",
+   "title": "Full width section + contacts popup",
+   "slug": "full-width-section-contacts-popup",
+   "tags": [
+    "contacts",
+    "full-width-sections",
+    "popup"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-section-contacts-popup.jpg"
+  },
+  {
+   "id": "22529",
+   "title": "Hero section + filters",
+   "slug": "hero-section-filters",
+   "tags": [
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/hero-section-filters.jpg"
+  },
+  {
+   "id": "22530",
+   "title": "Full width section + text",
+   "slug": "full-width-section-text",
+   "tags": [
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-section-text.jpg"
+  },
+  {
+   "id": "22532",
+   "title": "Full width hero section",
+   "slug": "full-width-hero-section",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-hero-section.jpg"
+  },
+  {
+   "id": "22533",
+   "title": "Full width gallery + sticky text",
+   "slug": "full-width-gallery-sticky-text",
+   "tags": [
+    "full-width-sections",
+    "gallery"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-gallery-sticky-text.jpg"
+  },
+  {
+   "id": "22535",
+   "title": "Our team showcase",
+   "slug": "our-team-showcase",
+   "tags": [
+    "carousels",
+    "full-width-sections",
+    "gallery"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/our-team-showcase-1.jpg"
+  },
+  {
+   "id": "22536",
+   "title": "Masonry images gallery",
+   "slug": "masonry-images-gallery",
+   "tags": [
+    "full-width-sections",
+    "gallery",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/masonry-images-gallery-2.jpg"
+  },
+  {
+   "id": "22541",
+   "title": "Mobile app gallery",
+   "slug": "mobile-app-gallery",
+   "tags": [
+    "carousels",
+    "gallery",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/mobile-app-gallery.jpg"
+  },
+  {
+   "id": "22545",
+   "title": "Two columns texts + social buttons",
+   "slug": "two-columns-texts-social-buttons",
+   "tags": [
+    "about-us",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/two-columns-texts-social-buttons.jpg"
+  },
+  {
+   "id": "22547",
+   "title": "Two columns texts",
+   "slug": "two-columns-texts",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/two-columns-texts.jpg"
+  },
+  {
+   "id": "22549",
+   "title": "FaQ accordion",
+   "slug": "columns_2-title_underline",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/columns_2-title_underline.jpg"
+  },
+  {
+   "id": "22553",
+   "title": "Products lookbook",
+   "slug": "products-lookbook",
+   "tags": [
+    "carousels",
+    "full-width-sections",
+    "products",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-lookbook-1.jpg"
+  },
+  {
+   "id": "22555",
+   "title": "Products tabs with title and text",
+   "slug": "products-tabs-with-title-text",
+   "tags": [
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-tabs-load-more.jpg"
+  },
+  {
+   "id": "22556",
+   "title": "Slide from bottom showcase",
+   "slug": "slide-from-bottom-showcase",
+   "tags": [
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/slide-from-bottom-showcase-1.jpg"
+  },
+  {
+   "id": "22557",
+   "title": "Slide from top showcase",
+   "slug": "slide-from-top-showcase",
+   "tags": [
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/slide-from-top-showcase.jpg"
+  },
+  {
+   "id": "22558",
+   "title": "Showcase + z-axis parallax",
+   "slug": "showcase-z-axis-parallax",
+   "tags": [
+    "full-width-sections",
+    "parallax",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/showcase-z-axis-parallax.jpg"
+  },
+  {
+   "id": "22559",
+   "title": "Showcase + x-basis parallax",
+   "slug": "showcase-x-basis-parallax",
+   "tags": [
+    "parallax",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/showcase-x-basis-parallax.jpg"
+  },
+  {
+   "id": "22560",
+   "title": "Wine showcase",
+   "slug": "wine-showcase",
+   "tags": [
+    "full-width-sections",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/wine-showcase-4.jpg"
+  },
+  {
+   "id": "22561",
+   "title": "Wine showcase + info boxes",
+   "slug": "wine-showcase-info-boxes",
+   "tags": [
+    "full-width-sections",
+    "info-box",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/wine-showcase-info-boxes.jpg"
+  },
+  {
+   "id": "22562",
+   "title": "Full width showcase + parallax",
+   "slug": "full-width-showcase-parallax",
+   "tags": [
+    "full-width-sections",
+    "parallax",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-showcase-parallax.jpg"
+  },
+  {
+   "id": "22563",
+   "title": "Glasses showcase + parallax",
+   "slug": "glasses-showcase-parallax",
+   "tags": [
+    "carousels",
+    "gallery",
+    "parallax",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/glasses-showcase-parallax.jpg"
+  },
+  {
+   "id": "22564",
+   "title": "Glasses showcase + info boxes",
+   "slug": "glasses-showcase-info-boxes",
+   "tags": [
+    "about-us",
+    "carousels",
+    "info-box",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/glasses-showcase-info-boxes.jpg"
+  },
+  {
+   "id": "22566",
+   "title": "Electronics showcase",
+   "slug": "electronics-showcase",
+   "tags": [
+    "call-to-action",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/electronics-showcase-1.jpg"
+  },
+  {
+   "id": "22567",
+   "title": "Bikes showcase + hotspots",
+   "slug": "bikes-showcase-hotspots",
+   "tags": [
+    "full-width-sections",
+    "products",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/bikes-showcase-hotspots.jpg"
+  },
+  {
+   "id": "22568",
+   "title": "Corporate showcase",
+   "slug": "corporate-showcase",
+   "tags": [
+    "info-box",
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/corporate-showcase-1.jpg"
+  },
+  {
+   "id": "22571",
+   "title": "About us + banners",
+   "slug": "about-us-banners",
+   "tags": [
+    "about-us",
+    "banners",
+    "full-width-sections",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-us-banners.jpg"
+  },
+  {
+   "id": "22572",
+   "title": "Contacts + popup + Google map",
+   "slug": "contacts-popup-google-map",
+   "tags": [
+    "contacts",
+    "google-map",
+    "info-box",
+    "popup"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/contacts-popup-google-map.jpg"
+  },
+  {
+   "id": "22573",
+   "title": "Contact form + texts",
+   "slug": "contact-form-texts",
+   "tags": [
+    "contacts",
+    "info-box",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/contact-form-texts.jpg"
+  },
+  {
+   "id": "22574",
+   "title": "Contacts + Google map",
+   "slug": "contacts-google-map",
+   "tags": [
+    "contacts",
+    "google-map",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/contacts-google-map.jpg"
+  },
+  {
+   "id": "22576",
+   "title": "Contacts + popup",
+   "slug": "contacts-popup",
+   "tags": [
+    "call-to-action",
+    "contacts",
+    "popup",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/contacts-popup.jpg"
+  },
+  {
+   "id": "22577",
+   "title": "Full width team members",
+   "slug": "full-width-team-members",
+   "tags": [
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/full-width-team-members.jpg"
+  },
+  {
+   "id": "22578",
+   "title": "Team members alternative",
+   "slug": "team-members-alternative",
+   "tags": [
+    "about-us"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/team-members-alternative.jpg"
+  },
+  {
+   "id": "22579",
+   "title": "Team members with texts",
+   "slug": "team-members-with-texts",
+   "tags": [
+    "about-us"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/team-members-with-texts.jpg"
+  },
+  {
+   "id": "22580",
+   "title": "Team members 4 columns",
+   "slug": "team-members-4-columns",
+   "tags": [
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/team-members-4-columns.jpg"
+  },
+  {
+   "id": "22581",
+   "title": "About us + team members",
+   "slug": "about-us-team-members",
+   "tags": [
+    "about-us",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/about-us-team-members.jpg"
+  },
+  {
+   "id": "22583",
+   "title": "Team members + sticky text",
+   "slug": "team-members-sticky-text",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/team-members-sticky-text.jpg"
+  },
+  {
+   "id": "22585",
+   "title": "Sport team members",
+   "slug": "sport-team-members",
+   "tags": [
+    "images-grid",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/sport-team-members.jpg"
+  },
+  {
+   "id": "22587",
+   "title": "Products tabs with icons",
+   "slug": "products-tabs-with-icons",
+   "tags": [
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-tabs-with-icons-1.jpg"
+  },
+  {
+   "id": "22588",
+   "title": "Products carousel + title",
+   "slug": "products-carousel-title",
+   "tags": [
+    "carousels",
+    "products",
+    "titles"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-carousel-title.jpg"
+  },
+  {
+   "id": "22589",
+   "title": "Products grid",
+   "slug": "tiled-products-grid",
+   "tags": [
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/tiled-products-grid.jpg"
+  },
+  {
+   "id": "22590",
+   "title": "Products grid with title and link",
+   "slug": "products-grid",
+   "tags": [
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-grid-1.jpg"
+  },
+  {
+   "id": "22592",
+   "title": "Products title on images",
+   "slug": "products-title-on-images",
+   "tags": [
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/products-title-on-images.jpg"
+  },
+  {
+   "id": "22593",
+   "title": "3 columns text + image",
+   "slug": "3-columns-text-image",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/3-columns-text-image.jpg"
+  },
+  {
+   "id": "22595",
+   "title": "Previews gallery",
+   "slug": "previews-gallery",
+   "tags": [
+    "gallery"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/previews-gallery.jpg"
+  },
+  {
+   "id": "22596",
+   "title": "Sticky sidebar showcase",
+   "slug": "sticky-sidebar-showcase",
+   "tags": [
+    "gallery",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/sticky-sidebar-showcase.jpg"
+  },
+  {
+   "id": "22598",
+   "title": "Gallery + sticky column",
+   "slug": "gallery-sticky-column",
+   "tags": [
+    "gallery",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/gallery-sticky-column.jpg"
+  },
+  {
+   "id": "22599",
+   "title": "Gallery + info boxes",
+   "slug": "gallery-info-boxes",
+   "tags": [
+    "carousels",
+    "gallery",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/gallery-info-boxes-1.jpg"
+  },
+  {
+   "id": "22601",
+   "title": "Call to action section",
+   "slug": "call-to-action-section",
+   "tags": [
+    "call-to-action",
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/call-to-action-section.jpg"
+  },
+  {
+   "id": "22603",
+   "title": "Section with video bg",
+   "slug": "section-with-video-bg",
+   "tags": [
+    "full-width-sections",
+    "video-background"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/section-with-video-bg.jpg"
+  },
+  {
+   "id": "22606",
+   "title": "Image + text and popup",
+   "slug": "two-columns-image-text",
+   "tags": [
+    "popup",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/two-columns-image-text.jpg"
+  },
+  {
+   "id": "22607",
+   "title": "Section with backoungd + text",
+   "slug": "section-with-backoungd-text",
+   "tags": [
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/section-with-backoungd-text.jpg"
+  },
+  {
+   "id": "22608",
+   "title": "Gallery + sticky text",
+   "slug": "gallery-sticky-text",
+   "tags": [
+    "gallery",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/gallery-sticky-text.jpg"
+  },
+  {
+   "id": "22609",
+   "title": "Lingerie gallery grid",
+   "slug": "lingerie-gallery-grid",
+   "tags": [
+    "gallery",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/lingerie-gallery-grid-1.jpg"
+  },
+  {
+   "id": "22611",
+   "title": "Wine banners",
+   "slug": "wine-banners",
+   "tags": [
+    "banners",
+    "categories",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/wine-banners.jpg"
+  },
+  {
+   "id": "22612",
+   "title": "Categories 3 columns",
+   "slug": "categories-3-columns-2",
+   "tags": [
+    "categories",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/categories-3-columns-2.jpg"
+  },
+  {
+   "id": "22613",
+   "title": "Small categories + brands",
+   "slug": "small-categories-brands",
+   "tags": [
+    "categories"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/small-categories-brands.jpg"
+  },
+  {
+   "id": "22615",
+   "title": "Categories 3 columns",
+   "slug": "categories-3-columns",
+   "tags": [
+    "categories",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/categories-3-columns-1.jpg"
+  },
+  {
+   "id": "22616",
+   "title": "Marketplace categories lists",
+   "slug": "marketplace-categories-lists",
+   "tags": [
+    "categories"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/marketplace-categories-lists.jpg"
+  },
+  {
+   "id": "22617",
+   "title": "Categories full width",
+   "slug": "categories-full-width",
+   "tags": [
+    "carousels",
+    "categories",
+    "full-width-sections",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/categories-full-width-1.jpg"
+  },
+  {
+   "id": "22618",
+   "title": "Categories grid",
+   "slug": "categories-grid",
+   "tags": [
+    "categories",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/08/categories-grid.jpg"
+  },
+  {
+   "id": "23371",
+   "title": "Footer minimalism",
+   "slug": "footer-minimalism",
+   "tags": [
+    "footers"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/footer-minimalism.jpg"
+  },
+  {
+   "id": "23374",
+   "title": "2 Columns contacts + brands",
+   "slug": "2-columns-contacts-brands",
+   "tags": [
+    "about-us",
+    "contacts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/2-columns-contacts-brands.jpg"
+  },
+  {
+   "id": "23376",
+   "title": "Advanced footer",
+   "slug": "advanced-footer",
+   "tags": [
+    "footers"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/advanced-footer-1.jpg"
+  },
+  {
+   "id": "23378",
+   "title": "Christmas footer",
+   "slug": "christmas-footer",
+   "tags": [
+    "footers"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/christmas-footer.jpg"
+  },
+  {
+   "id": "23385",
+   "title": "Footer with instagram",
+   "slug": "footer-with-instagram",
+   "tags": [
+    "footers",
+    "instagram"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/footer-with-instagram.jpg"
+  },
+  {
+   "id": "23389",
+   "title": "Map with text 2 columns",
+   "slug": "map-with-text-2-columns",
+   "tags": [
+    "contacts",
+    "google-map"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/map-with-text-2-columns.jpg"
+  },
+  {
+   "id": "23397",
+   "title": "Banner + images gallery",
+   "slug": "banner-images-gallery",
+   "tags": [
+    "banners",
+    "gallery",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/banner-images-gallery.jpg"
+  },
+  {
+   "id": "23399",
+   "title": "Products 5 columns",
+   "slug": "products-5-columns",
+   "tags": [
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/products-5-columns.jpg"
+  },
+  {
+   "id": "23398",
+   "title": "5 columns info boxes",
+   "slug": "5-columns-info-boxes",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/5-columns-info-boxes.jpg"
+  },
+  {
+   "id": "23407",
+   "title": "Custom 404 page 2",
+   "slug": "custom-404-page-2",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/custom-404-page-2-1.jpg"
+  },
+  {
+   "id": "23409",
+   "title": "Custom 404 page",
+   "slug": "custom-404-page",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/custom-404-page.jpg"
+  },
+  {
+   "id": "23411",
+   "title": "Video + info boxes",
+   "slug": "video-info-boxes",
+   "tags": [
+    "info-box",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/video-info-boxes.jpg"
+  },
+  {
+   "id": "23700",
+   "title": "Maintenance mode 3",
+   "slug": "maintenance-mode-3",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/maintenance-mode-3.jpg"
+  },
+  {
+   "id": "23703",
+   "title": "Maintenance mode 2",
+   "slug": "maintenance-mode-2",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/maintenance-mode-2.jpg"
+  },
+  {
+   "id": "23709",
+   "title": "Maintenance mode",
+   "slug": "maintenance-mode",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/maintenance-mode.jpg"
+  },
+  {
+   "id": "23712",
+   "title": "Maintenance Christmas",
+   "slug": "maintenance-christmas",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/09/maintenance-christmas.jpg"
+  },
+  {
+   "id": "23863",
+   "title": "Sale call to action",
+   "slug": "sale-call-to-action",
+   "tags": [
+    "call-to-action"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/sale-call-to-action.jpg"
+  },
+  {
+   "id": "23866",
+   "title": "About us with contacts",
+   "slug": "about-us-with-contacts",
+   "tags": [
+    "about-us",
+    "contacts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/about-us-with-contacts-1.jpg"
+  },
+  {
+   "id": "23869",
+   "title": "2 Columns text + info boxes",
+   "slug": "2-columns-text-info-boxes",
+   "tags": [
+    "about-us",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/2-columns-text-info-boxes.jpg"
+  },
+  {
+   "id": "23871",
+   "title": "Info boxes with hover",
+   "slug": "info-boxes-with-hover",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/info-boxes-with-hover.jpg"
+  },
+  {
+   "id": "23873",
+   "title": "About us full screen",
+   "slug": "about-us-full-screen",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/about-us-full-screen.jpg"
+  },
+  {
+   "id": "23877",
+   "title": "Store addresses",
+   "slug": "store-addresses",
+   "tags": [
+    "about-us",
+    "contacts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/store-addresses-1.jpg"
+  },
+  {
+   "id": "23880",
+   "title": "About us 2 columns",
+   "slug": "about-us-2-columns",
+   "tags": [
+    "about-us"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/about-us-2-columns.jpg"
+  },
+  {
+   "id": "23884",
+   "title": "Testimonails and counters",
+   "slug": "testimonails-and-counters",
+   "tags": [
+    "about-us"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/testimonails-and-counters.jpg"
+  },
+  {
+   "id": "23888",
+   "title": "Image and info boxes grid",
+   "slug": "image-and-info-boxes-grid",
+   "tags": [
+    "images-grid",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/image-and-info-boxes-grid.jpg"
+  },
+  {
+   "id": "23891",
+   "title": "Text on full width background",
+   "slug": "text-on-full-width-background",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/text-on-full-width-background.jpg"
+  },
+  {
+   "id": "23922",
+   "title": "3 banners grid",
+   "slug": "3-banners-grid",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/3-banners-grid-1.jpg"
+  },
+  {
+   "id": "24538",
+   "title": "Motorcycle banners grid",
+   "slug": "motorcycle-grid",
+   "tags": [
+    "banners",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/motorcycle-grid.jpg"
+  },
+  {
+   "id": "24541",
+   "title": "Motorcycle hot spot",
+   "slug": "motorcycle-hot-spot",
+   "tags": [
+    "showcase",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/motorcycle-hot-spot.jpg"
+  },
+  {
+   "id": "24543",
+   "title": "Technical specification table",
+   "slug": "technical-specification-table",
+   "tags": [
+    "showcase",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/technical-specification-table.jpg"
+  },
+  {
+   "id": "24546",
+   "title": "Motorcycle 360",
+   "slug": "motorcycle-360",
+   "tags": [
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/10/motorcycle-360.jpg"
+  },
+  {
+   "id": "25418",
+   "title": "Bordered products grid",
+   "slug": "bordered-products-grid",
+   "tags": [
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/11/bordered-products-grid.jpg"
+  },
+  {
+   "id": "25421",
+   "title": "Deals + banners",
+   "slug": "deals-banners",
+   "tags": [
+    "banners",
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/11/deals-banners.jpg"
+  },
+  {
+   "id": "25425",
+   "title": "Hot deals + hot spots",
+   "slug": "hot-deals-hot-spots",
+   "tags": [
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/11/hot-deals-hot-spots.jpg"
+  },
+  {
+   "id": "25753",
+   "title": "Full screen showcase section",
+   "slug": "full-screen-showcase-section",
+   "tags": [
+    "full-width-sections",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/11/full-screen-showcase-section.jpg"
+  },
+  {
+   "id": "25756",
+   "title": "Infoboxes with hover and image",
+   "slug": "infoboxes-with-hover-and-image",
+   "tags": [
+    "full-width-sections",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/11/infoboxes-with-hover-and-image.jpg"
+  },
+  {
+   "id": "25759",
+   "title": "Full width section with background",
+   "slug": "full-width-section-with-background",
+   "tags": [
+    "full-width-sections",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/11/full-width-section-with-background.jpg"
+  },
+  {
+   "id": "25762",
+   "title": "Features infoboxes",
+   "slug": "features-infoboxes",
+   "tags": [
+    "info-box",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/11/features-infoboxes.jpg"
+  },
+  {
+   "id": "25765",
+   "title": "360 view and infoboxes",
+   "slug": "360-view-and-infoboxes",
+   "tags": [
+    "full-width-sections",
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/11/360-view-and-infoboxes-1.jpg"
+  },
+  {
+   "id": "25768",
+   "title": "Full width products section",
+   "slug": "full-width-products-section",
+   "tags": [
+    "full-width-sections",
+    "products"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2018/11/full-width-products-section.jpg"
+  },
+  {
+   "id": "26560",
+   "title": "Flowers discount box",
+   "slug": "flowers-dicount-box",
+   "tags": [
+    "call-to-action",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/02/flowers-dicount-box.jpg"
+  },
+  {
+   "id": "26564",
+   "title": "Flowers banners grid",
+   "slug": "flowers-banners-grid",
+   "tags": [
+    "banners",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/02/flowers-banners-grid.jpg"
+  },
+  {
+   "id": "26843",
+   "title": "Camping categories",
+   "slug": "camping-category",
+   "tags": [
+    "categories"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/03/camping-category.jpg"
+  },
+  {
+   "id": "26846",
+   "title": "Camping-portfolio",
+   "slug": "camping-portfolio",
+   "tags": [],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/03/camping-portfolio.jpg"
+  },
+  {
+   "id": "26849",
+   "title": "Camping video",
+   "slug": "camping-video",
+   "tags": [
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/03/camping-video-1.jpg"
+  },
+  {
+   "id": "26852",
+   "title": "Testimonials and newsletter",
+   "slug": "testimonials-and-newsletter",
+   "tags": [
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/03/testimonials-and-newsletter-1.jpg"
+  },
+  {
+   "id": "26856",
+   "title": "Camping footer",
+   "slug": "camping-footer",
+   "tags": [
+    "footers"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/03/camping-footer-2.jpg"
+  },
+  {
+   "id": "27561",
+   "title": "Retail 2 banners",
+   "slug": "retail-2-banners",
+   "tags": [
+    "banners",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/05/retail-2-banners.jpg"
+  },
+  {
+   "id": "27580",
+   "title": "Bike hotspot",
+   "slug": "bike-hotspot",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/05/bike-hotspot.jpg"
+  },
+  {
+   "id": "27582",
+   "title": "Retail 2 footer",
+   "slug": "retail-2-footer",
+   "tags": [
+    "footers"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/05/retail-2-footer.jpg"
+  },
+  {
+   "id": "28248",
+   "title": "Alternative energy",
+   "slug": "alternative-energy",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "texts",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/06/alternative-energy.jpg"
+  },
+  {
+   "id": "28741",
+   "title": "Drinks info boxes",
+   "slug": "drinks-info-boxes",
+   "tags": [
+    "info-box"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/07/drinks-info-boxes.jpg"
+  },
+  {
+   "id": "28744",
+   "title": "Drinks contact form",
+   "slug": "drinks-contact-form",
+   "tags": [
+    "contacts",
+    "google-map"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/07/drinks-contact-form.jpg"
+  },
+  {
+   "id": "29100",
+   "title": "Bakery info boxes 3",
+   "slug": "bakery-info-boxes-3",
+   "tags": [
+    "info-box",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/08/bakery-info-boxes-3.jpg"
+  },
+  {
+   "id": "29102",
+   "title": "Bakery info boxes 2",
+   "slug": "bakery-info-boxes-2",
+   "tags": [
+    "info-box",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/08/bakery-info-boxes-2.jpg"
+  },
+  {
+   "id": "29104",
+   "title": "Bakery info boxes",
+   "slug": "bakery-info-boxes",
+   "tags": [
+    "info-box",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2019/08/bakery-info-boxes.jpg"
+  },
+  {
+   "id": "30119",
+   "title": "Minimalism banners",
+   "slug": "minimalism-banners",
+   "tags": [
+    "banners",
+    "gallery"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2020/01/minimalism-banners.jpg"
+  },
+  {
+   "id": "30128",
+   "title": "Minimalism video",
+   "slug": "minimalism-video",
+   "tags": [
+    "texts",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2020/01/minimalism-video.jpg"
+  },
+  {
+   "id": "30617",
+   "title": "Medical marijuana info boxes",
+   "slug": "medical-marijuana-info-box",
+   "tags": [
+    "info-box",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2020/02/medical-marijuana-info-box.jpg"
+  },
+  {
+   "id": "30619",
+   "title": "Video forms",
+   "slug": "medical-marijuana-videoforms",
+   "tags": [
+    "contacts",
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2020/02/medical-marijuana-videoforms.jpg"
+  },
+  {
+   "id": "30621",
+   "title": "Medical marijuana counters",
+   "slug": "medical-marijuana-counter",
+   "tags": [
+    "about-us"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2020/02/medical-marijuana-counter.jpg"
+  },
+  {
+   "id": "31342",
+   "title": "Medical working hours",
+   "slug": "medical-working-hours",
+   "tags": [
+    "about-us",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2020/04/medical-working-hours-1.jpg"
+  },
+  {
+   "id": "31343",
+   "title": "Medical images + progres bar",
+   "slug": "medical-imagesprogres-bar",
+   "tags": [
+    "about-us",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2020/04/medical-imagesprogres-bar.jpg"
+  },
+  {
+   "id": "32454",
+   "title": "Tools hot spot",
+   "slug": "tools-hot-spot",
+   "tags": [
+    "popup",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2020/07/tools-hot-spot-1.jpg"
+  },
+  {
+   "id": "33587",
+   "title": "Accessories banners",
+   "slug": "accessories-banners",
+   "tags": [
+    "banners",
+    "images-grid"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2020/12/accessories-banners-1.jpg"
+  },
+  {
+   "id": "33987",
+   "title": "Coffee banners",
+   "slug": "coffee-banners",
+   "tags": [
+    "banners"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2020/12/coffee-banners-1.jpg"
+  },
+  {
+   "id": "33992",
+   "title": "Coffee prefooter",
+   "slug": "coffee-prefooter",
+   "tags": [
+    "footers",
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2020/12/coffee-prefooter.jpg"
+  },
+  {
+   "id": "36977",
+   "title": "Corporate showcase",
+   "slug": "corporate-showcase-2",
+   "tags": [
+    "full-width-sections",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/05/corporate-showcase-2.jpg"
+  },
+  {
+   "id": "36979",
+   "title": "Corporate about us",
+   "slug": "corporate-about-us",
+   "tags": [
+    "about-us",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/05/corporate-about-us-1.jpg"
+  },
+  {
+   "id": "36981",
+   "title": "Corporate video",
+   "slug": "corporate-video",
+   "tags": [
+    "video"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/05/corporate-video.jpg"
+  },
+  {
+   "id": "38606",
+   "title": "Corporate design blog meta on image",
+   "slug": "corporate-design-blog-meta-on-image",
+   "tags": [
+    "blog"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/corporate-design-blog-meta-on-image.jpg"
+  },
+  {
+   "id": "38609",
+   "title": "Lawyer hero section",
+   "slug": "lawyer-hero-section",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/lawyer-hero-section.jpg"
+  },
+  {
+   "id": "38612",
+   "title": "Lawyer showcase",
+   "slug": "lawyer-showcase",
+   "tags": [
+    "full-width-sections",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/lawyer-showcase.jpg"
+  },
+  {
+   "id": "38614",
+   "title": "Lawyer testimonials design information top",
+   "slug": "lawyer-testimonials-design-information-top",
+   "tags": [
+    "subscription"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/lawyer-testimonials-design-information-top.jpg"
+  },
+  {
+   "id": "38616",
+   "title": "Repair hero section",
+   "slug": "repair-hero-section",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/repair-hero-section.jpg"
+  },
+  {
+   "id": "38619",
+   "title": "Repair portfolio carousel",
+   "slug": "repair-portfolio-carousel",
+   "tags": [
+    "carousels",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/repair-portfolio-carousel.jpg"
+  },
+  {
+   "id": "38621",
+   "title": "Beauty footer",
+   "slug": "beauty-footer",
+   "tags": [
+    "footers",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/beauty-footer.jpg"
+  },
+  {
+   "id": "38623",
+   "title": "Real estate hero section",
+   "slug": "real-estate-hero-section",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/real-estate-hero-section.jpg"
+  },
+  {
+   "id": "38625",
+   "title": "Real estate showcase",
+   "slug": "real-estate-showcase",
+   "tags": [
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/real-estate-showcase.jpg"
+  },
+  {
+   "id": "38627",
+   "title": "Real estate footer",
+   "slug": "real-estate-footer",
+   "tags": [
+    "footers"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/real-estate-footer.jpg"
+  },
+  {
+   "id": "38713",
+   "title": "Infinite hero section",
+   "slug": "infinite-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/infinite-hero-section.jpg"
+  },
+  {
+   "id": "38715",
+   "title": "Digitals hero section",
+   "slug": "digitals-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/digitals-hero-section-1.jpg"
+  },
+  {
+   "id": "38725",
+   "title": "Motorcycle hero section",
+   "slug": "motorcycle-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/motorcycle-hero-section.jpg"
+  },
+  {
+   "id": "38731",
+   "title": "Cosmetics hero section",
+   "slug": "cosmetics-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/cosmetics-hero-section.jpg"
+  },
+  {
+   "id": "38735",
+   "title": "Landing gadget hero section",
+   "slug": "landing-gadget-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/landing-gadget-hero-section.jpg"
+  },
+  {
+   "id": "38738",
+   "title": "Alternative energy hero section",
+   "slug": "alternative-energy-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/alternative-energy-hero-section-1.jpg"
+  },
+  {
+   "id": "38740",
+   "title": "Shoes hero section",
+   "slug": "shoes-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/shoes-hero-section.jpg"
+  },
+  {
+   "id": "38745",
+   "title": "Books hero section",
+   "slug": "books-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/books-hero-section.jpg"
+  },
+  {
+   "id": "38749",
+   "title": "Fashion minimalism hero section",
+   "slug": "fashion-minimalism-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/fashion-minimalism-hero-section.jpg"
+  },
+  {
+   "id": "38754",
+   "title": "Glasses hero section",
+   "slug": "glasses-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/glasses-hero-section.jpg"
+  },
+  {
+   "id": "38758",
+   "title": "Electronics 2 hero section",
+   "slug": "electronics-2-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2021/06/electronics-2-hero-section-1.jpg"
+  },
+  {
+   "id": "42553",
+   "title": "Megamarket category menu",
+   "slug": "megamarket-menu",
+   "tags": [
+    "mega-menu"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/06/megamarket-menu-2.jpg"
+  },
+  {
+   "id": "42560",
+   "title": "Megamarket hot deals + hot spots",
+   "slug": "megamarket-hotspot",
+   "tags": [
+    "full-width-sections",
+    "products",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/06/megamarket-hotspot-2.jpg"
+  },
+  {
+   "id": "42568",
+   "title": "Megamarket showcase",
+   "slug": "aside-products-tabs",
+   "tags": [
+    "products",
+    "tabs"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/06/aside-products-tabs-2.jpg"
+  },
+  {
+   "id": "42572",
+   "title": "Megamarket payment and delivery",
+   "slug": "megamarket-payment-and-delivery",
+   "tags": [
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/06/megamarket-payment-and-delivery-2.jpg"
+  },
+  {
+   "id": "42575",
+   "title": "Megamarket promotion",
+   "slug": "megamarket-promotion",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/06/megamarket-promotion-2.jpg"
+  },
+  {
+   "id": "42579",
+   "title": "Megamarket track order",
+   "slug": "megamarket-track-order",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/06/megamarket-track-order-2.jpg"
+  },
+  {
+   "id": "42593",
+   "title": "Megamarket collapsible content",
+   "slug": "megamarket-collapsible-content",
+   "tags": [
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/06/megamarket-collapsible-content-3.jpg"
+  },
+  {
+   "id": "42595",
+   "title": "Megamarket services",
+   "slug": "megamarket-services",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/06/megamarket-services-1.jpg"
+  },
+  {
+   "id": "49868",
+   "title": "Accessories about us",
+   "slug": "accessories-about-us",
+   "tags": [
+    "about-us",
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/10/accessories-about-us-1.jpg"
+  },
+  {
+   "id": "49877",
+   "title": "Accessories hero sections",
+   "slug": "accessories-hero-sections",
+   "tags": [
+    "full-width-sections",
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/10/accessories-hero-sections-1.jpg"
+  },
+  {
+   "id": "49883",
+   "title": "Accessories track order",
+   "slug": "accessories-track-order",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/10/accessories-track-order-2.jpg"
+  },
+  {
+   "id": "49888",
+   "title": "Accessories shipping",
+   "slug": "accessories-shipping",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2022/10/accessories-shipping-2.jpg"
+  },
+  {
+   "id": "54558",
+   "title": "Mega-electronics hero sections",
+   "slug": "mega-electronics-hero-sections",
+   "tags": [
+    "full-width-sections",
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/02/mega-electronics-hero-sections.jpg"
+  },
+  {
+   "id": "55424",
+   "title": "Food-delivery hero sections",
+   "slug": "food-delivery-hero-sections",
+   "tags": [
+    "full-width-sections",
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/03/food-delivery-hero-sections-2.jpg"
+  },
+  {
+   "id": "55426",
+   "title": "Food-delivery time line",
+   "slug": "food-delivery-time-line",
+   "tags": [
+    "full-width-sections",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/03/food-delivery-time-line-2.jpg"
+  },
+  {
+   "id": "55428",
+   "title": "Event-agency footer",
+   "slug": "event-agency-footer",
+   "tags": [
+    "footers",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/03/event-agency-footer-5.jpg"
+  },
+  {
+   "id": "55430",
+   "title": "Developer hero sections",
+   "slug": "developer-hero-sections",
+   "tags": [
+    "full-width-sections",
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/03/developer-hero-sections-1.jpg"
+  },
+  {
+   "id": "55433",
+   "title": "Architecture-studio text",
+   "slug": "architecture-studio-text",
+   "tags": [
+    "full-width-sections",
+    "texts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/03/architecture-studio-text-2.jpg"
+  },
+  {
+   "id": "56613",
+   "title": "Megamarket product description",
+   "slug": "megamarket-description-product",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/megamarket-description-product-1.jpg"
+  },
+  {
+   "id": "56695",
+   "title": "Accessories product description",
+   "slug": "accessories-description-product",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/accessories-description-product.jpg"
+  },
+  {
+   "id": "56711",
+   "title": "Mega Electronics product description #1",
+   "slug": "mega-electronics-description-product-1",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/mega-electronics-description-product-1-3.jpg"
+  },
+  {
+   "id": "56719",
+   "title": "Mega Electronics product description #2",
+   "slug": "mega-electronics-description-product-2",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/mega-electronics-description-product-2-3.jpg"
+  },
+  {
+   "id": "56730",
+   "title": "Mega Electronics product description #3",
+   "slug": "mega-electronics-description-product-3",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/mega-electronics-description-product-3-3.jpg"
+  },
+  {
+   "id": "56741",
+   "title": "Mega Electronics product description #4",
+   "slug": "mega-electronics-description-product-4",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/mega-electronics-description-product-4-1.jpg"
+  },
+  {
+   "id": "56751",
+   "title": "Mega Electronics product description #5",
+   "slug": "mega-electronics-description-product-5",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/mega-electronics-description-product-5-1.jpg"
+  },
+  {
+   "id": "56766",
+   "title": "Mega Electronics product description #6",
+   "slug": "mega-electronics-description-product-6",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/mega-electronics-description-product-6-2.jpg"
+  },
+  {
+   "id": "56778",
+   "title": "Mega Electronics product description #7",
+   "slug": "mega-electronics-description-product-7",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/mega-electronics-description-product-7-1.jpg"
+  },
+  {
+   "id": "56790",
+   "title": "Mega Electronics product description #8",
+   "slug": "mega-electronics-product-description-8",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/mega-electronics-product-description-8.jpg"
+  },
+  {
+   "id": "56827",
+   "title": "Games product description",
+   "slug": "games-product-description",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/games-product-description-1.jpg"
+  },
+  {
+   "id": "56838",
+   "title": "Games hero sections",
+   "slug": "games-hero-sections",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/games-hero-sections-1.jpg"
+  },
+  {
+   "id": "56846",
+   "title": "Furniture 2 contacts",
+   "slug": "furniture-2-contacts",
+   "tags": [
+    "contacts"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/furniture-2-contacts-1.jpg"
+  },
+  {
+   "id": "56852",
+   "title": "Furniture 2 showrooms",
+   "slug": "furniture-2-showrooms",
+   "tags": [
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/furniture-2-showrooms-2.jpg"
+  },
+  {
+   "id": "56871",
+   "title": "Furniture 2 about brand",
+   "slug": "furniture-2-about-brand",
+   "tags": [
+    "product-features"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2023/08/furniture-2-about-brand-2.jpg"
+  },
+  {
+   "id": "68078",
+   "title": "Hemp shoes hero sections",
+   "slug": "hemp-shoes-hero-sections",
+   "tags": [
+    "about-us",
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2025/05/hemp-shoes-hero-sections-1.jpg"
+  },
+  {
+   "id": "68079",
+   "title": "Hemp shoes about us",
+   "slug": "hemp-shoes-about-us",
+   "tags": [
+    "about-us"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2025/05/hemp-shoes-about-us-1.jpg"
+  },
+  {
+   "id": "68080",
+   "title": "Hemp shoes showcase",
+   "slug": "hemp-shoes-showcase",
+   "tags": [
+    "products",
+    "showcase"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2025/05/hemp-shoes-showcase-1.jpg"
+  },
+  {
+   "id": "68196",
+   "title": "Barbershop footer",
+   "slug": "barbershop-footer",
+   "tags": [
+    "footers",
+    "full-width-sections"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2025/06/barbershop-footer-3.jpg"
+  },
+  {
+   "id": "68199",
+   "title": "T-shirts hero sections",
+   "slug": "t-shirts-hero-sections",
+   "tags": [
+    "full-width-sections",
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2025/06/t-shirts-hero-sections-2.jpg"
+  },
+  {
+   "id": "68208",
+   "title": "T-shirts about us",
+   "slug": "t-shirts-about-us",
+   "tags": [
+    "about-us"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2025/06/t-shirts-about-us-1.jpg"
+  },
+  {
+   "id": "71947",
+   "title": "Farm hero section",
+   "slug": "farm-hero-section",
+   "tags": [
+    "hero-section"
+   ],
+   "image": "{{LIB}}/media/woodmart.xtemos.com/wp-content/uploads/2026/09/farm-hero-section-2.jpg"
+  }
+ ]
+}
