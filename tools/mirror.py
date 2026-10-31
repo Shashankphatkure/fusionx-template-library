@@ -73,6 +73,7 @@ def media():
     for f in os.listdir(os.path.join(ROOT, 'templates')):
         t = open(os.path.join(ROOT, 'templates', f), encoding='utf-8').read()
         for p in re.findall(r'\{\{LIB\}\}/media/([^"\']+)', t):
+            p = p.rstrip(chr(92))
             raw_urls[p] = p
     for p in raw_urls:
         host, _, rest = p.partition('/')
